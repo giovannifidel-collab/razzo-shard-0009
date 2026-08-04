@@ -1,6 +1,6 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "started",
+  "state": "completed",
   "workflowRunId": "30960437057",
   "cycleId": "razzo-9fc39d8816c4",
   "generationId": "razzo-9fc39d8816c4:g1",
@@ -11,8 +11,8 @@
   "title": "Project Giovanni sanitized product discovery scan",
   "kind": "discovery",
   "exactInputSha": "0cec483667809d44e72f8e4e514f46cd29399379",
-  "observedSha": null,
-  "durationSeconds": null,
+  "observedSha": "0cec483667809d44e72f8e4e514f46cd29399379",
+  "durationSeconds": 1.63,
   "error": null,
-  "updatedEpoch": 1785886463.1576464
+  "updatedEpoch": 1785886466.1367283
 }

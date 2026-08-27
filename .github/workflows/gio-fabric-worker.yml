@@ -1,0 +1,11 @@
+name: gio Build Fabric Worker
+on:
+  push:
+    branches: [main]
+    paths: ['job.json']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    uses: giovannifidel-collab/pfarma-ci/.github/workflows/gio-fabric-probe-worker.yml@cbbcd025952b19de070d1adb21470faf36cc5e11

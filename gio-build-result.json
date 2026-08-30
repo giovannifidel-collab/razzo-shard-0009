@@ -1,0 +1,66 @@
+{
+  "fileCount": 3502,
+  "gitMetadataGiB": 0.084,
+  "privateGioSourcePresent": false,
+  "publicInputsOnly": true,
+  "repository": "https://github.com/crdroidandroid/android_frameworks_native.git",
+  "requestedRef": "14.0",
+  "resolvedSha": "74e9bfe0a01f07cbd265cf6beb2aa9753d4bf4f4",
+  "schema": "gio.os.public-source-probe.v1",
+  "signingKeysPresent": false,
+  "targetMaxGiB": 12.5,
+  "taskId": "frameworks-native",
+  "topDirectories": [
+    {
+      "kib": 23252,
+      "path": "libs"
+    },
+    {
+      "kib": 15600,
+      "path": "services"
+    },
+    {
+      "kib": 7556,
+      "path": "opengl"
+    },
+    {
+      "kib": 2656,
+      "path": "cmds"
+    },
+    {
+      "kib": 2464,
+      "path": "vulkan"
+    },
+    {
+      "kib": 988,
+      "path": "include"
+    },
+    {
+      "kib": 896,
+      "path": "data"
+    },
+    {
+      "kib": 608,
+      "path": "headers"
+    },
+    {
+      "kib": 560,
+      "path": "docs"
+    },
+    {
+      "kib": 56,
+      "path": "aidl"
+    },
+    {
+      "kib": 44,
+      "path": "build"
+    },
+    {
+      "kib": 20,
+      "path": "NOTICE"
+    }
+  ],
+  "withinTarget": true,
+  "workingSetGiB": 0.137,
+  "workingSetKiB": 143228
+}
